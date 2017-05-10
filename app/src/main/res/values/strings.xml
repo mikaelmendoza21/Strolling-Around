@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Strolling Around</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="markers">Markers</string>
+    <string name="drawer_button">Click</string>
+    <string name="currentLocation">Find me on Map</string>
+    <string name="mapView">mapView</string>
+    <string name="title_activity_location">Map</string>
+    <string name="addDestinationButton">Add Destination</string>
+    <string name= "latLng"></string>
+    <string name ="placeholder">Your Comment</string>
+</resources>
